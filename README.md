@@ -4,7 +4,7 @@
 The purpose of this analysis was to compare total ride fares of three different city types: Rural, Suburban, and Urban. We accomplished this by creating a ride-sharhing summary DataFrame by city type and a multiple-line chart of total fares for each city type. 
 
 ## Results
-As you can see from [Summary DataFrame](analysis/Summary_DataFrame.png), the Urban city type has the most rides, drivers, and fares compared to the Suburban and Rural city types. When you look at the average fare per ride and fare per driver, the Urban city type has the lowest of these two categories. In order to visualize the total fares by city type, I created a multiple line chart here: [Total Fares by City Type](analysis/PyBer_fare_Summary.png). This line chart emphasizes how much more the Urban toal fares is compared to Suburban and Rural. 
+As you can see from [Summary DataFrame](analysis/Summary_DataFrame.png), the Urban city type has the most rides, drivers, and fares compared to the Suburban and Rural city types. When you look at the average fare per ride and fare per driver, the Urban city type has the lowest of these two categories. In order to visualize the total fares by city type, I created a multiple line chart here: [Total Fares by City Type](analysis/PyBer_fare_summary.png). This line chart emphasizes how much more the Urban toal fares is compared to Suburban and Rural. 
 
 ## Summary
 
